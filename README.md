@@ -16,4 +16,4 @@ This project showcases a real-time object detection system powered by the YOLOv8
 - pygame
 - threading
 
-# Perfect for use cases like accessibility tools, smart surveillance, or interactive AI demos.
+#### Perfect for use cases like accessibility tools, smart surveillance, or interactive AI demos.
